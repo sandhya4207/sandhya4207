@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1>Sandhya</h1>
+### Hi I am Sandhya Rekha 👋
 <!-- <img src='./src/redd-f-3mWxKnqET3E-unsplash.jpg'/> -->
  <h1 style="./src/redd-f-3mWxKnqET3E-unsplash.jpg">Hi Iam Sandhya</h1>
 <!--
