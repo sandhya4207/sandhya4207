@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1>Sandhya</h1>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fprogramming-skills%2F&psig=AOvVaw2pnAd-7p5eleFJPqmyXgbc&ust=1681372684137000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDU577vo_4CFQAAAAAdAAAAABAS" />
+<img src='./src/redd-f-3mWxKnqET3E-unsplash.jpg' />
 <!--
 **sandhya4207/sandhya4207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
