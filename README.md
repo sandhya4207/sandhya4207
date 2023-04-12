@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h1>Sandhya</h1>
-<img src='./src/redd-f-3mWxKnqET3E-unsplash.jpg' />
+<img src='./src/redd-f-3mWxKnqET3E-unsplash.jpg'>
+ <h1>Hi Iam Sandhya</h1>
+</img>
 <!--
 **sandhya4207/sandhya4207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
