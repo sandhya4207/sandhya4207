@@ -7,10 +7,10 @@
 </p>
 
 
-- 💬 Ask me about **Java,JavaScript,ReactJs,Springboot,redux**
-- 🌱 I’m currently learning <h2>NodeJs</h2>
-- 👯 I’m looking to collaborate on opensource
-- 🤔 I’m looking for help with java
+- 💬 Ask me about **Java,JavaScript,ReactJs,Springboot and Redux**
+- 🌱 I’m currently learning ***NodeJs***
+- 👯 I’m looking to collaborate on **Opensource**
+- 🤔 I’m looking for help with ***Java***
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
