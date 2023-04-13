@@ -1,5 +1,5 @@
-### Hi I am Sandhya Rekha 👋
-<img src='./src/img.png'/> 
+                                                             ### Hi I am Sandhya Rekha 👋
+<img src='./src/sandhya_banner.png'/> 
  <h1 style="./src/redd-f-3mWxKnqET3E-unsplash.jpg">Hi Iam Sandhya</h1>
 <!--
 **sandhya4207/sandhya4207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
