@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Opensource**
 - 🤔 I’m looking for help with ***Java***
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: **sandhyabandaru15@gmail.com**
+- 😄 Pronouns: She/Her
+<!--- ⚡ Fun fact: ... -->
 
