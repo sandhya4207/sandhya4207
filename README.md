@@ -1,10 +1,6 @@
 <h1 align="center"> Hi I am Sandhya Rekha 👋</h1>
 <img src='./src/sandhya_banner.png'/> 
-- 💬 Ask me about **Java,Springboot,react,js,Redux**
-- 
-- 📫 How to reach me **sandhyabandaru15@gmail.com**
-<!--
-**sandhya4207/sandhya4207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -16,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
