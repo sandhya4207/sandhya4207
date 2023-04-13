@@ -10,7 +10,7 @@
 - 💬 Ask me about **Java,JavaScript,ReactJs,Springboot and Redux**
 - 🌱 I’m currently learning ***NodeJs***
 - 👯 I’m looking to collaborate on **Opensource**
-- 🤔 I can help with ***Java***
+- 😎 I can help with ***Java***
 
 - 📫 How to reach me: **sandhyabandaru15@gmail.com**
 - 😄 Pronouns: She/Her
