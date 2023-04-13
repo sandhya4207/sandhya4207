@@ -1,6 +1,8 @@
-                                                             ### Hi I am Sandhya Rekha 👋
+<h1 align="center"> Hi I am Sandhya Rekha 👋</h1>
 <img src='./src/sandhya_banner.png'/> 
- <h1 style="./src/redd-f-3mWxKnqET3E-unsplash.jpg">Hi Iam Sandhya</h1>
+- 💬 Ask me about **Java,Springboot,react,js,Redux**
+- 
+- 📫 How to reach me **sandhyabandaru15@gmail.com**
 <!--
 **sandhya4207/sandhya4207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
