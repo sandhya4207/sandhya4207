@@ -5,7 +5,14 @@
    <a href="https://www.linkedin.com/in/sandhya-rekha-bandaru-40111620b/"><img alt="LinkedIn" src="https://img.shields.io/badge/-SandhyaRekha-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandhya-rekha-bandaru-40111620b/"></a>
    <a href="mailto:sandhyabandaru15@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-sandhyabandaru15@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandhyabandaru15@gmail.com"></a>
 </p>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 - 💬 Ask me about **Java,JavaScript,ReactJs,Springboot and Redux**
 - 🌱 I’m currently learning ***NodeJs***
