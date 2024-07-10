@@ -1,4 +1,4 @@
-<h1> Hey there am Sandhya 👋</h1>
+<h1> Hey there I'm Sandhya 👋</h1>
 <!-- <img src='./src/sandhya_banner.png'/> 
 <p align="left"> -->
    <a href="https://sandhya4207.github.io/MyPortfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/-sandhya.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://mybio:sandhya.co/"></a>
